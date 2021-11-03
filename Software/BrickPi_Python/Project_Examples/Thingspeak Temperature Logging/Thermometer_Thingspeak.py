@@ -7,6 +7,8 @@
 # For the working of thermometer code alone visit : https://github.com/DexterInd/BrickPi/blob/master/Software/BrickPi_Python/Sensor%20Examples/DI-dTemp%20test.py
 # Connect the Thermometer to the SENSOR PORT_3 of BrickPi
 
+# Winlock High School Edits
+
 import httplib, urllib
 import time
 
